@@ -1,0 +1,194 @@
+.rgb {
+    width: 25px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .show {
+    display: flex;
+  }
+  
+  .back {
+    width: 100vw;
+    height: 100vh;
+    background: rgb(0 0 0 / 11%);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: flex-end;
+  }
+  
+  .temas {
+    background: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cont {
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+  }
+  
+  .normal {
+    background: #4682a9;
+    color: #4682a9;
+    border: 3px solid #376786;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  
+  .verde {
+    background: var(--mint);
+    color: var(--mint);
+    border: 3px solid rgb(2, 155, 122);
+    border-radius: 50px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  
+  .escuro {
+    background: var(--oxford-blue-3);
+    color: var(--oxford-blue-3);
+    border: 3px solid rgb(0, 6, 17);
+    border-radius: 50px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  
+  .escuro2 {
+    background: #09001e;
+    color: #09001e;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  
+  .laranja {
+    background: var(--bittersweet-2);
+    color: var(--bittersweet-2);
+    border: 3px solid rgb(165, 63, 58);
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  
+  .rosa {
+    background: var(--cherry-blossom-pink);
+    color: var(--cherry-blossom-pink);
+    border: 3px solid rgb(207, 144, 154);
+    border-radius: 50px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  
+  .neutro {
+    background: var(--buff);
+    color: var(--buff);
+    border: 3px solid rgb(175, 135, 95);
+    border-radius: 50px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  
+  .roxo {
+    background: var(--mauve-3);
+    color: var(--mauve-3);
+    border: 3px solid rgb(182, 151, 211);
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  
+  .fechar {
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  :root {
+    --lapis-lazuli: #05668dff;
+    --teal: #028090ff;
+    --persian-green: #00a896ff;
+    --mint: #02c39aff;
+    --cream: #f0f3bdff;
+  }
+  
+  :root {
+    --true-blue: #0466c8ff;
+    --sapphire: #0353a4ff;
+    --yale-blue: #023e7dff;
+    --oxford-blue: #002855ff;
+    --oxford-blue-2: #001845ff;
+    --oxford-blue-3: #001233ff;
+    --delft-blue: #33415cff;
+    --paynes-gray: #5c677dff;
+    --slate-gray: #7d8597ff;
+    --cool-gray: #979dacff;
+  }
+  
+  :root {
+    --caribbean-current: #006466ff;
+    --midnight-green: #065a60ff;
+    --midnight-green-2: #0b525bff;
+    --midnight-green-3: #144552ff;
+    --charcoal: #1b3a4bff;
+    --prussian-blue: #212f45ff;
+    --space-cadet: #272640ff;
+    --dark-purple: #312244ff;
+    --dark-purple-2: #3e1f47ff;
+    --palatinate: #4d194dff;
+  }
+  
+  :root {
+    --tea-green: #ccd5aeff;
+    --beige: #e9edc9ff;
+    --cornsilk: #fefae0ff;
+    --papaya-whip: #faedcdff;
+    --buff: #d4a373ff;
+  }
+  
+  :root {
+    --fawn: #f7b267ff;
+    --atomic-tangerine: #f79d65ff;
+    --coral: #f4845fff;
+    --bittersweet: #f27059ff;
+    --bittersweet-2: #f25c54ff;
+  }
+  
+  :root {
+    --platinum: #d8e2dcff;
+    --champagne-pink: #ffe5d9ff;
+    --pink: #ffcad4ff;
+    --cherry-blossom-pink: #f4acb7ff;
+    --mountbatten-pink: #9d8189ff;
+  }
+  
+  :root {
+    --glaucous: #757bc8ff;
+    --tropical-indigo: #8187dcff;
+    --tropical-indigo-2: #8e94f2ff;
+    --vista-blue: #9fa0ffff;
+    --powder-blue: #ada7ffff;
+    --mauve: #bbadffff;
+    --mauve-2: #cbb2feff;
+    --mauve-3: #dab6fcff;
+    --mauve-4: #ddbdfcff;
+    --mauve-5: #e0c3fcff;
+  }
