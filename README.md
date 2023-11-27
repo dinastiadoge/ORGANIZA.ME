@@ -1,6 +1,6 @@
 # ORGANIZA.ME
 
-Esta aplicação é um protótipo funcional e simples que tem como único objetivo ajudar a organizar a vida acadêmica dos estudantes de ciência da computação.
+Esta aplicação é um protótipo funcional e simples, para o trabalho final de DevWeb, que tem como único objetivo ajudar a organizar a vida acadêmica dos estudantes de ciência da computação.
 Foi desenvolvida com um trabalho em equipe entre os alunos do segundo período: _Ana Letícia, Fernanda Mendes, João G. Holanda, Lucas Lopes._
 
 Agora que situamos o que é esse aplicativo, vamos ao seu funcionamento:
