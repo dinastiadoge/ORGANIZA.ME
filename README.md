@@ -31,7 +31,7 @@ Após isso, você será direcionado para a tela de Anotações, entretanto nós 
 }
 - Programação { Neste protótipo, essa aba serve para o estudante ficar a par dos conteúdos mais importantes de programação, para quem está cursando Ciências da Computação e tem até algumas recomendações de livros.}
 - Mudar tema { Mais a direita no menu principal, temos a incrível opção de customização de cores! O "mudar tema". Esta opção, abrirá um menu com vários temas de cores em que você pode escolher a que for mais agradável para a visualização do site.
-  Os temas existentes são: "Original", azul claro. "Bloodstone", verde escuro. "Esmeralda", verde claro. "Topázio", laranja. "Quartzo", rosa. "Capuccino", marrom claro. "Light Purple", lilás. "Dark purple", roxo escuro.
+  Os temas existentes são: _"Original"_, azul claro. _"Bloodstone"_, verde escuro. _"Esmeralda"_, verde claro. _"Topázio"_, laranja. _"Quartzo"_, rosa. _"Capuccino"_, marrom claro. _"Light Purple"_, lilás. _"Dark purple"_, roxo escuro.
   }
 
 **ATENÇÃO: TODOS OS DADOS SÃO SALVOS NA MEMÓRIA DO COMPUTADOR. TENHA CERTEZA DO QUE ESTÁ FAZENDO ANTES DE APAGAR OS DADOS DE NAVEGAÇÃO!**
