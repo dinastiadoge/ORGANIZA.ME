@@ -186,12 +186,6 @@ input:focus {
   }
 }
 
-@media screen and (max-height: 750px) {
-  .container {
-    overflow: auto;
-  }
-}
-
 @media screen and (max-width: 770px) {
   .arredar {
     display: block;
@@ -210,9 +204,5 @@ input:focus {
 @media screen and (max-width: 420px) {
   .area{
     flex-direction: column;
-  }
-
-  .container {
-    overflow: auto;
   }
 }
