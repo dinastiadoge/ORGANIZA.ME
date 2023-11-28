@@ -35,7 +35,6 @@ _Quando a largura da tela for menor que 780px, uma mensagem dizendo que é poss�
   Os temas existentes são: _"Original"_, azul claro. _"Bloodstone"_, verde escuro. _"Esmeralda"_, verde claro. _"Topázio"_, laranja. _"Quartzo"_, rosa. _"Capuccino"_, marrom claro. _"Light Purple"_, lilás. _"Dark purple"_, roxo escuro.}
 
 
-
 **ATENÇÃO: TODOS OS DADOS SÃO SALVOS NA MEMÓRIA DO COMPUTADOR. TENHA CERTEZA DO QUE ESTÁ FAZENDO ANTES DE APAGAR OS DADOS DE NAVEGAÇÃO!**
 **Baixar todos os arquivos para o funcionamento correto.**
 
