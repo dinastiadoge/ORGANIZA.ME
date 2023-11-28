@@ -73,6 +73,7 @@ function applyTheme(theme) {
     r.style.setProperty("--font-calendar", "#fff");
     r.style.setProperty("--color-gradient", "#7b6a64");
   } else if (theme === "escuro") {
+    r.style.setProperty("--button-content-bg-color", "#436873");
     r.style.setProperty("--background-color", "#0c202b");
     r.style.setProperty("--container-bg-color", "#34697596");
     r.style.setProperty("--title-color", "#c4ced5");
@@ -81,6 +82,8 @@ function applyTheme(theme) {
     r.style.setProperty("--botao-bg-hover-color", "#4b7e8d");
     r.style.setProperty("--font-topis", "#fff");
     r.style.setProperty("--primary-clr", "#0c202b");
+    r.style.setProperty("--font-color", "#c4ced5");
+
   } else if (theme === "escuro2") {
     r.style.setProperty("--button-content-bg-color", "#312847b0");
     r.style.setProperty("--background-color", "#09001e");
