@@ -118,6 +118,9 @@ function applyTheme(theme) {
     r.style.setProperty("--botao-bg-hover-color", "#005e00e5");
     r.style.setProperty("--botao-menu-color", "#363636");
     r.style.setProperty("--menu-hover-color", "#80808086");
+    r.style.setProperty("--primary-clr", "#7dbedf");
+    r.style.setProperty("--color-gradient", "#417b99");
+    r.style.setProperty("--font-calendar", "#fff");
   }
 }
 
