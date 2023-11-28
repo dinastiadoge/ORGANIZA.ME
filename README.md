@@ -6,6 +6,7 @@ Foi desenvolvida com um trabalho em equipe entre os alunos do segundo período: 
 Agora que situamos o que é esse aplicativo, vamos ao seu funcionamento:
 Ao abrir o site no seu navegador, a primeira página será apenas uma porta de entrada para o aplicativo real. Basta clicar no "Entrar".
 Após isso, você será direcionado para a tela de Anotações, entretanto nós temos algumas opções no menu principal, estas são:
+_Quando a largura da tela for menor que 780px, uma mensagem dizendo que é possível arrastar o menu para o lado aparecerá._
 
 - Anotações { Nesta aba, você deve criar anotações úteis para o seu dia a dia, sobre alguma matéria ou algo relacionado.
   Para criar uma nota, basta clicar no botão "Criar nota", no canto superior da tela. Ele abrirá um modal de cadastro da anotação.
@@ -32,6 +33,8 @@ Após isso, você será direcionado para a tela de Anotações, entretanto nós 
 - Programação { Neste protótipo, essa aba serve para o estudante ficar a par dos conteúdos mais importantes de programação, para quem está cursando Ciências da Computação e tem até algumas recomendações de livros.}
 - Mudar tema { Mais a direita no menu principal, temos a incrível opção de customização de cores! O "mudar tema". Esta opção, abrirá um menu com vários temas de cores em que você pode escolher a que for mais agradável para a visualização do site.
   Os temas existentes são: _"Original"_, azul claro. _"Bloodstone"_, verde escuro. _"Esmeralda"_, verde claro. _"Topázio"_, laranja. _"Quartzo"_, rosa. _"Capuccino"_, marrom claro. _"Light Purple"_, lilás. _"Dark purple"_, roxo escuro.}
+
+
 
 **ATENÇÃO: TODOS OS DADOS SÃO SALVOS NA MEMÓRIA DO COMPUTADOR. TENHA CERTEZA DO QUE ESTÁ FAZENDO ANTES DE APAGAR OS DADOS DE NAVEGAÇÃO!**
 **Baixar todos os arquivos para o funcionamento correto.**
