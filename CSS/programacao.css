@@ -86,12 +86,32 @@
   transition: transform 0.3s ease-in-out;
 }
 
-.seta {
+.seta, .seta1, .seta2, .seta3, .seta4, .seta5 {
   width: 16px;
   transition: transform 0.3s ease-in-out;
 }
 
 .seta.virada {
+  transform: rotate(180deg);
+}
+
+.seta1.virada {
+  transform: rotate(180deg);
+}
+
+.seta2.virada {
+  transform: rotate(180deg);
+}
+
+.seta3.virada {
+  transform: rotate(180deg);
+}
+
+.seta4.virada {
+  transform: rotate(180deg);
+}
+
+.seta5.virada {
   transform: rotate(180deg);
 }
 
