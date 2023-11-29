@@ -13,6 +13,7 @@
 
 .content {
   height: 80%;
+  background: var(--background-color);
 }
 
 .container2 {
